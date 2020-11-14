@@ -14,7 +14,7 @@ Then, I was Technical Account Manager (TAM) at Microsoft, AWS Cloud Architect fo
 
 Please find my detailed profile on [LinkedIn](https://www.linkedin.com/in/grenuv/).
 
-`A64F809689054079`
+`5B15 B626 72A3 B95C FAC5  98AE D75E EBBB F499 0859`
 
 That’s all folks!
 
