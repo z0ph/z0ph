@@ -8,11 +8,11 @@ I’ve also a good experience of: Cloud Security, DevSecOps, Cost Saving (FinOps
 
 ### Back in time
 
-Few years ago, I’ve started my career in Information Technology (IT) in 2005 in a glass factory at Saint-Gobain as a System Administrator in the little town of Mers-les-Bains, France
+I’ve started my career in Information Technology (IT) in 2005 in a glass factory at Saint-Gobain as a System Administrator in the little town of Mers-les-Bains, France
 
-Previously, I was Technical Account Manager (TAM) at Microsoft, AWS Cloud Architect for Mediametrie, and Ops Manager for SNCF Logistics (STVA). And more recently, Senior Cloud Infrastructure Architect for a global Datalake Product at ENGIE.
+Then, I was Technical Account Manager (TAM) at Microsoft, AWS Cloud Architect for Mediametrie, and Ops Manager for SNCF Logistics (STVA). And more recently, Senior Cloud Infrastructure Architect for a global Datalake Product at ENGIE.
 
-Please find my detailed profile on [LinkedIn](https://www.linkedin.com/in/grenuv/) or my [Full Resume](https://cv.zoph.me).
+Please find my detailed profile on [LinkedIn](https://www.linkedin.com/in/grenuv/).
 
 `A64F809689054079`
 
