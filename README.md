@@ -1,4 +1,4 @@
-### Hi folks <img src="https://raw.githubusercontent.com/dannysteenman/dannysteenman/main/icon/wave.gif" width="10px">
+### Hi folks 👋
 
 My name is Victor GRENU, aka ([@zoph](https://twitter.com/zoph)). I’m a kind of Problem Solver, Cloud Security Aficionados. I am living in Paris, France.
 
@@ -10,7 +10,7 @@ I also have good experience in Cloud Security, DevSecOps, Cost Saving (FinOps), 
 
 I started my career in Information Technology in 2005 in a glass factory at Saint-Gobain as a System Administrator in the little town of Mers-les-Bains, France.
 
-Then, I became Technical Account Manager (TAM) at Microsoft, AWS Cloud Architect for Mediametrie, and Ops Manager for SNCF Logistics. And more recently, Senior Cloud Infrastructure Architect for ENGIE.
+Then, I became Technical Account Manager (TAM) at Microsoft, AWS Cloud Architect for Mediametrie, and Ops Manager for SNCF Logistics. And more recently, Senior Cloud Architect for ENGIE.
 
 Please find my detailed profile on [LinkedIn](https://www.linkedin.com/in/grenuv/).
 
