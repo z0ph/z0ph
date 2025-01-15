@@ -2,9 +2,7 @@
 
 Welcome to my GitHub, where I share my side projects and code experiences as an Independent AWS Cloud Architect.
 
-My name is Victor Grenu, but you can also find me on Twitter as @zoph.
-
-With a focus on Amazon Web Services (AWS), I specialize in designing secure, scalable, reliable, and cost-effective architectures for large-scale and mission-critical distributed systems, including microservices and serverless.
+My name is Victor Grenu, and I'm focusing on Amazon Web Services (AWS). I specialize in designing secure, scalable, reliable, cost-effective architectures for large-scale and mission-critical distributed systems, including microservices and serverless.
 
 I also bring a wealth of experience in cloud security, DevSecOps, cost-saving strategies, operations management, modern application design, and cloud governance.
 
