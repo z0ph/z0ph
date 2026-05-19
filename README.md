@@ -1,15 +1,42 @@
-### Hi folks 👋
+### Hi, I'm Victor
 
-Welcome to my GitHub, where I share my side projects and code experiences as an Independent AWS Cloud Architect.
+Independent **AWS Infrastructure & Security Architect**. Securing, automating, and optimizing AWS since 2017.
 
-My name is Victor Grenu, and I'm focusing on Amazon Web Services (AWS). I specialize in designing secure, scalable, reliable, cost-effective architectures for large-scale and mission-critical distributed systems, including microservices and serverless.
+Based in France, working worldwide. Focused on security reviews, architecture, DevSecOps, and FinOps for large-scale and mission-critical AWS environments. 19+ years in IT, 9+ years on AWS, 6x AWS Certified.
 
-I also bring a wealth of experience in cloud security, DevSecOps, cost-saving strategies, operations management, modern application design, and cloud governance.
+This GitHub is where I share side projects, tooling, and experiments from my consulting work. Most active development happens under [@zoph-io](https://github.com/zoph-io/).
 
-Through this GH, I hope to share my knowledge and insights with the community and continue to learn and grow alongside others in the field. Thanks for visiting!
+#### What I do
+
+- **AWS Architecture**: design, review, and optimize AWS infrastructure for security, scalability, and cost.
+- **Security Audits & Hardening**: identify vulnerabilities and implement defense-in-depth across AWS accounts and Organizations.
+- **Automation & DevSecOps**: Infrastructure as Code, CI/CD, and automated security controls.
+- **Cloud Cost Optimization**: actionable FinOps recommendations and automation.
+
+#### Featured projects
+
+- [**unusd.cloud**](https://unusd.cloud/): the garbage collector for your AWS account. Identify unused resources to cut cost and shrink attack surface.
+- [**IAMTrail**](https://iamtrail.com/): full version history and diffs for 1,525+ AWS Managed IAM Policies, archived since 2019 ([source](https://github.com/zoph-io/IAMTrail)).
+- [**AWS Security Survival Kit**](https://github.com/zoph-io/aws-security-survival-kit): opinionated security monitoring and alerting baseline for AWS accounts.
+- [**Subnet Watcher**](https://github.com/zoph-io/subnet-watcher): CloudWatch metrics for available IPs in VPC subnets, with proactive alerts.
+- [**AWS Trustline**](https://github.com/zoph-io/aws-trustline): analyze IAM and S3 policies to surface third-party and external access.
+
+More on [github.com/zoph-io](https://github.com/zoph-io/).
+
+#### Community
+
+Organizer and CFP reviewer for [**fwd:cloudsec Europe**](https://fwdcloudsec.org/conference/europe/), Europe's vendor-neutral cloud security conference. Berlin 2025, then London 2026.
+
+#### Writing
+
+I write about AWS security, cloud architecture, and DevSecOps on [**zoph.me**](https://zoph.me/).
+
+#### Get in touch
+
+[hello@zoph.io](mailto:hello@zoph.io) · [Book a call](https://calendly.com/zophio?hide_gdpr_banner=1) · [zoph.io](https://zoph.io/)
 
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=z0ph)
 
-That’s all, folks!
+That's all, folks!
 
 zoph.
