@@ -35,7 +35,8 @@ I write about AWS security, cloud architecture, and DevSecOps on [**zoph.me**](h
 
 [hello@zoph.io](mailto:hello@zoph.io) · [Book a call](https://calendly.com/zophio?hide_gdpr_banner=1) · [zoph.io](https://zoph.io/)
 
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=z0ph)
+[![GitHub followers](https://img.shields.io/github/followers/z0ph?label=Followers&logo=github&style=flat)](https://github.com/z0ph?tab=followers)
+[![zoph.io stars](https://img.shields.io/github/stars/zoph-io?label=zoph-io%20stars&logo=github&style=flat)](https://github.com/zoph-io)
 
 That's all, folks!
 
