@@ -2,7 +2,7 @@
 
 Independent **AWS Infrastructure & Security Architect**. Securing, automating, and optimizing AWS since 2017.
 
-Based in France, working worldwide. Focused on security reviews, architecture, DevSecOps, and FinOps for large-scale and mission-critical AWS environments. 19+ years in IT, 9+ years on AWS, 6x AWS Certified.
+Based in France, working worldwide. Focused on security reviews, architecture, DevSecOps, FinOps, and secure AI adoption for large-scale and mission-critical AWS environments. 19+ years in IT, 9+ years on AWS, 6x AWS Certified.
 
 This GitHub is where I share side projects, tooling, and experiments from my consulting work. Most active development happens under [@zoph-io](https://github.com/zoph-io/).
 
@@ -12,6 +12,7 @@ This GitHub is where I share side projects, tooling, and experiments from my con
 - **Security Audits & Hardening**: identify vulnerabilities and implement defense-in-depth across AWS accounts and Organizations.
 - **Automation & DevSecOps**: Infrastructure as Code, CI/CD, and automated security controls.
 - **Cloud Cost Optimization**: actionable FinOps recommendations and automation.
+- **Secure AI & LLM Adoption**: guardrails, data protection, and security reviews for Amazon Bedrock, agents, and AI-powered workflows.
 
 #### Featured projects
 
